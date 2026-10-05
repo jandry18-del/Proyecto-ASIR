@@ -1,7 +1,7 @@
 # 1. Introducción
 
 ## 1.1. Título del reto
-Expansión digital y visibilidad online para concesionario de vehículos
+Expansión digital y visibilidad online para el concesionario Justcars
 
 ## 1.2. Contexto
 El proyecto se desarrolla para un concesionario de coches de ámbito local que actualmente opera de forma exclusivamente presencial. El negocio cuenta con reconocimiento dentro de su ciudad, pero carece por completo de presencia en internet.
