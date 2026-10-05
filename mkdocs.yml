@@ -1,0 +1,5 @@
+site_name: Justcars
+
+nav:
+  - Inicio: index.md
+  - Introducción: 01_introduccion.md
