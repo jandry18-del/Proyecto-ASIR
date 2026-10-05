@@ -18,6 +18,7 @@ Diseñar e implementar la infraestructura de sistemas necesaria para alojar una 
 * Desplegar y configurar un servidor web que soporte el tráfico de usuarios.
 * Implementar un sistema de base de datos para almacenar y gestionar el inventario de coches.
 * Garantizar la seguridad de la información y las conexiones (implementación de certificados HTTPS, cortafuegos, etc.).
+* Configurar copias de seguridad automatizadas para la base de datos.
 
 * ## 1.5. Interesados
 
